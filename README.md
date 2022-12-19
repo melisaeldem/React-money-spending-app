@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/96880942/208469899-fc3fd204-1c24-43d4-9ce0-40c99813953a.png)
+
+If we have money, the products we can buy are actively showing us.
+Items that we cannot pay for will not be active.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
